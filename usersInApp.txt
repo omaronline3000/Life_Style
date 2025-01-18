@@ -1,0 +1,8 @@
+omar 123
+omar 55
+cd "d:\study\coding\CPP\projects_cpp\life_style\"
+om pass
+py 5
+sal 45
+omar 123
+abo_ali_father 12345678
